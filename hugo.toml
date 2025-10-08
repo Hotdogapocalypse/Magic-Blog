@@ -63,4 +63,9 @@ ignoreErrors = ["error-disable-taxonomy"]
     style = 'friendly'
     lineNos = true
     lineNumbersInTable = false
+
     codeFences = true
+# Configuring the image cache hopefully.
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
