@@ -1,6 +1,7 @@
-[submodule "themes/hello-friend-ng"]
-	path = themes/hello-friend-ng
-	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
 [submodule "Magic-Blog/themes/hugo-bearblog"]
 	path = Magic-Blog/themes/hugo-bearblog
 	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "Magic-Blog/themes/hyde"]
+	path = Magic-Blog/themes/hyde
+	url = https://github.com/spf13/hyde.git
+
