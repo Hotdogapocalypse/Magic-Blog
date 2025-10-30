@@ -3,10 +3,10 @@
 baseURL = "https://example.com"
 
 # The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
+theme = 'hyde'
 
 # Basic metadata configuration for your blog.
-title = "Hotdog's Magic Blog"
+title = "Hi! I'm Adrian."
 author = "hotdogapocalypse"
 copyright = "Copyright © 2025, Hotdogapocalypse."
 languageCode = "en-US"
@@ -24,7 +24,9 @@ ignoreErrors = ["error-disable-taxonomy"]
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
   description = "Magic: The Gathering via a tube of extruded meat."
-
+ 
+  themeColor = "theme-base-0f"
+  
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
   favicon = "images/favicon.png"

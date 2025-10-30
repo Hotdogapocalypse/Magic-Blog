@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Blog on Hotdog&#39;s Magic Blog</title>
     <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on Hotdog&#39;s Magic Blog</description>
+=======
+    <title>Blog on Hi! I&#39;m Adrian.</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on Hi! I&#39;m Adrian.</description>
+>>>>>>> hyde-theme
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2025, Hotdogapocalypse.</copyright>
