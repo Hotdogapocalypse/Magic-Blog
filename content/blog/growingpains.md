@@ -3,7 +3,7 @@ title = "Growing Pains"
 date = "2025-10-29T13:41:06-04:00"
 description = "Musing on the domincance of Red Aggro in Magic: The Gathering's standard format and looking towards the future of red card design"
 
-tags = [Thoughts]
+tags = []
 +++
 
 Did you know that there has been as 51 1 or 2 mana value rare and mythic red creatures printed into standard in since 2020? Hot on the heels of The Last Airbender, [they have just spoiled another one](https://scryfall.com/card/tla/139/firebending-student) even. When people talk about the state of standard for the last couple years of years there's a lot of blame thrown at [Commander]() or [Universes Beyond]() influencing card design but no one seems to think about the number of cards being printed into Standard.  
