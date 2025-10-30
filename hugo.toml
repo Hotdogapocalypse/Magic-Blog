@@ -6,7 +6,7 @@ baseURL = "https://example.com"
 theme = 'hyde'
 
 # Basic metadata configuration for your blog.
-title = "Hi! I'm Adrian."
+title = "(/static/images/hotdogcart.png)"
 author = "hotdogapocalypse"
 copyright = "Copyright © 2025, Hotdogapocalypse."
 languageCode = "en-US"
@@ -30,7 +30,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
   #Putting the sidebar on the right.
   layoutReverse = true
-  
+
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
   favicon = "images/favicon.png"
