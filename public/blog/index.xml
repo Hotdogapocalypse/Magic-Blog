@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on (/static/images/hotdogcart.png)</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on (/static/images/hotdogcart.png)</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Hotdogapocalypse.</copyright>
+    <lastBuildDate>Wed, 29 Oct 2025 13:41:06 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Growing Pains</title>
+      <link>http://localhost:1313/growing-pains/</link>
+      <pubDate>Wed, 29 Oct 2025 13:41:06 -0400</pubDate>
+      <guid>http://localhost:1313/growing-pains/</guid>
+      <description>&lt;p&gt;Did you know that there has been as 51 1 or 2 mana value rare and mythic red creatures printed into standard in since 2020? Hot on the heels of The Last Airbender, &lt;a href=&#34;https://scryfall.com/card/tla/139/firebending-student&#34;&gt;they have just spoiled another one&lt;/a&gt; even. When people talk about the state of standard for the last couple years of years there&amp;rsquo;s a lot of blame thrown at &lt;a href=&#34;&#34;&gt;Commander&lt;/a&gt; or &lt;a href=&#34;&#34;&gt;Universes Beyond&lt;/a&gt; influencing card design but no one seems to think about the number of cards being printed into Standard.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
