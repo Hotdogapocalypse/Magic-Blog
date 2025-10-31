@@ -1,12 +1,12 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://example.com"
+baseURL = "https://thehotdog.blog"
 
 # The name of this wonderful theme ;-).
 theme = 'hyde'
 
 # Basic metadata configuration for your blog.
-title = "(/static/images/hotdogcart.png)"
+title = 'The Hotdog Blog'
 author = "hotdogapocalypse"
 copyright = "Copyright © 2025, Hotdogapocalypse."
 languageCode = "en-US"
