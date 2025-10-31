@@ -3,7 +3,7 @@
 baseURL = "https://example.com"
 
 # The name of this wonderful theme ;-).
-theme = 'hyde'
+theme = 'adrian'
 
 # Basic metadata configuration for your blog.
 title = "(/static/images/hotdogcart.png)"
